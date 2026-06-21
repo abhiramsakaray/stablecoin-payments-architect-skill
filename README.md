@@ -44,13 +44,13 @@ This skill acts as a senior fintech architect with deep Solana ecosystem knowled
 ### Install via Script
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-org/stablecoin-payments-architect-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/abhiramsakaray/stablecoin-payments-architect-skill/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/your-org/stablecoin-payments-architect-skill.git
+git clone https://github.com/abhiramsakaray/stablecoin-payments-architect-skill.git
 cd stablecoin-payments-architect-skill
 cp -r skill/ ~/.solana-ai-kit/skills/stablecoin-payments-architect/
 cp -r agents/ ~/.solana-ai-kit/agents/
